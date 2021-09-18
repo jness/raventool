@@ -1,0 +1,10 @@
+# exclude byte compiled python bits
+*.pyc
+*.pyo
+__pycache__
+
+# exclude our virtualenv
+venv/
+
+# no egg files
+*egg*
